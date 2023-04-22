@@ -1,0 +1,1 @@
+The popup folder contains the HTML and JavaScript files for the extension popup that opens when the user clicks on the extension icon.
